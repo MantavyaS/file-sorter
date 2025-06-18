@@ -37,7 +37,7 @@ After Sorting:
 
 | Before Sorting | After Sorting | Terminal Output |
 |----------------|----------------|------------------|
-| ![Before](https://github.com/MantavyaS/file-sorter/blob/main/screenshots/Screenshot%202025-06-16%20at%208.50.11%E2%80%AFPM.png) | ![After](c++shizzz/file_sorter/screenshots/Screenshot 2025-06-16 at 8.48.56 PM.png) | ![Output](c++shizzz/file_sorter/screenshots/Screenshot 2025-06-16 at 8.48.28 PM.png) |
+| ![Before](https://github.com/MantavyaS/file-sorter/blob/main/screenshots/Screenshot%202025-06-16%20at%208.50.11%E2%80%AFPM.png) | ![After](https://github.com/MantavyaS/file-sorter/blob/main/screenshots/Screenshot%202025-06-16%20at%208.48.56%E2%80%AFPM.png) | ![Output](https://github.com/MantavyaS/file-sorter/blob/main/screenshots/Screenshot%202025-06-16%20at%208.48.28%E2%80%AFPM.png) |
 
 ## How to Run
 
